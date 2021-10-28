@@ -73,6 +73,7 @@ function Header() {
               Number of Guests
             </h2>
             <UserIcon className="h-5" />
+            <input type="number" />
           </div>
         </div>
       )}
